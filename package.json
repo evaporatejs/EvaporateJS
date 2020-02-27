@@ -63,7 +63,9 @@
     ]
   },
   "nyc": {
-    "include": ["evaporate.js"]
+    "include": [
+      "evaporate.js"
+    ]
   },
   "babel": {
     "presets": [
