@@ -1,5 +1,5 @@
 {
-  "name": "evaporate",
+  "name": "evaporatejs",
   "version": "2.1.4",
   "description": "Javascript library for browser to S3 multipart resumable uploads for browsers and with Node FileSystem (fs) Stream Support",
   "main": "evaporate.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TTLabs/EvaporateJS.git"
+    "url": "git://github.com/evaporate/EvaporateJS.git"
   },
   "keywords": [
     "aws",
